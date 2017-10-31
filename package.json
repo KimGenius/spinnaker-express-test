@@ -1,6 +1,7 @@
 {
   "name" : "spinnaker-express",
   "version" : "1.0.0",
+  "main" : "server.js",
   "dependencies" : {
     "express" : "~4.13.1",
     "ejs" : "~2.4.1"
