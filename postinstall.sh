@@ -1,1 +1,1 @@
-sudo spinnaker-express scale web=1
+sudo spinnaker-express-test scale web=1
